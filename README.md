@@ -10,7 +10,7 @@ This application generates a README file based on user input in response to prom
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [credits](#credits)
+- [Credits](#credits)
 - [Tests](#tests)
 - [Questions](#questions)
 
