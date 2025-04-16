@@ -47,7 +47,7 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 ${data.license && data.license !== 'None' ? '- [License](#license)' : ''}
-- [Contributing](#contributing)
+- [credits](#credits)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -63,9 +63,9 @@ ${data.usage}
 
 ${renderLicenseSection(data.license)}
 
-## Contributing
+## Credits
 
-${data.contributing}
+${data.credits}
 
 ## Tests
 

@@ -35,9 +35,8 @@ const questions = [
   },
   {
     type: 'input',
-    name: 'contributing',
-    message: 'Provide contribution guidelines:',
-    default: 'Please feel free to contribute to this project by opening issues or submitting pull requests.'
+    name: 'credits',
+    message: 'Provide credits:',
   },
   {
     type: 'input',
