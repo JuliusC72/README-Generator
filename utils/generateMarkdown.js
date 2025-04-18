@@ -47,7 +47,7 @@ ${data.description}
 - [Installation](#installation)
 - [Usage](#usage)
 ${data.license && data.license !== 'None' ? '- [License](#license)' : ''}
-- [credits](#credits)
+- [Credits](#credits)
 - [Tests](#tests)
 - [Questions](#questions)
 
